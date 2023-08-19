@@ -2,7 +2,7 @@
 - 👀 I’m a recent Graduate Computer Science (AI) Student from Teerthanker Mahaveer University, Moradabad, Uttar Pradesh.
 - 🌱 I’m skilled in Python, HTML, CSS, JavaScript, React.js
 - 💞️ I’m looking for a Good Company to kick-start my Career.
-- 📫 How to reach me LinkedIn :- Simply by clicking here -> https://www.linkedin.com/in/akshansh2000j 👍🏻
+- 📫 How to reach me LinkedIn :- Simply by clicking here -> https://www.linkedin.com/in/akshansh2000j 👍🏻 See you there 😉👋🏻
 
 <!---
 AkshanshJain28/AkshanshJain28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
